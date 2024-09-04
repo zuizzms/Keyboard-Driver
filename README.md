@@ -1,5 +1,5 @@
 # Keyboard-Driver
-Disables the native system's keyboard driver and implements my own keyboard module
+Disables the native system's keyboard driver and implements my own custom keyboard module
 
 Steps:
 1. Compile module:
